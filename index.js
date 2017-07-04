@@ -27,8 +27,6 @@ timerContainer.setAttribute("style", "height: 0px;"+
     "margin-left:15px;" +
     "float:left;margin-top:10px;"+
     "position: sticky; top: 20px;" +
-    "font-weight: 500;"+
-    "font-family: 'Fira Sans',sans-serif;" +
     "margin-right: 20px")
 var bodyTag = document.getElementsByClassName('layout__row layout__row_body')[0]
 bodyTag.insertBefore(timerContainer, bodyTag.firstChild)
