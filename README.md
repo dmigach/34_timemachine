@@ -1,6 +1,6 @@
 # Timer for Websites That Steal Your Time
 
-This project helps to control time was spent on sites. It requires special extension for Chrome browser.
+This project helps to control time was spent on Habrahabr and Geektimes sites. It requires special extension for Chrome browser.
 
 # Installing
 
